@@ -3,6 +3,13 @@ body {
      color: black; /* cor da escrita */
 }
 
+header {
+    border: solid 2xp rgb(255, 255, 255);
+    font-size: 32px;
+    padding: 10px;
+    color: black;   
+}
+
 h1 {
     font-size: 30px;            /* tamanho da fonte */
     text-align: center;         /* centralizado */
