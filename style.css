@@ -10,6 +10,10 @@ header {
     color: black;   
 }
 
+section {
+    background-color: #ad5351; /* Cor escolhida */
+}
+
 h1 {
     font-size: 30px;            /* tamanho da fonte */
     text-align: center;         /* centralizado */
