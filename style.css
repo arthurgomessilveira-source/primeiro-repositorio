@@ -12,6 +12,14 @@ header {
 
 section {
     background-color: #ad5351; /* Cor escolhida */
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
 
 h1 {
