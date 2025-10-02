@@ -1,7 +1,7 @@
 body {
     background-color: aqua; /* cor de fundo da página */
      color: black; /* cor da escrita */
-     font-family: "Bodoni Moda" sans-serif;
+     font-family: "Bodoni Moda", sans-serif;
 }
 
 header {
